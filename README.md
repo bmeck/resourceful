@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/bmeck/resourceful.png)](http://travis-ci.org/bmeck/resourceful)
+
 # resourceful
 
 A storage agnostic resource-oriented ODM for building prototypical models with validation and sanitization.
